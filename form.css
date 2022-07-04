@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(215, 172, 117);
+}
+header{
+    text-align: center;
+    color: rgba(220, 20, 60, 0.919);
+}
+.form-name{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.form-name input {
+    width: 600px;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.form-name label{
+    display: block;
+    color: rgb(58, 93, 115);
+}
+.select-option{
+    text-align: center;
+}
+.select-option label{
+    color: rgb(85, 39, 39);
+    display: block;    
+    font-size: 20px;
+    margin-bottom: 20px; 
+}
+.select-option select {
+    width: 600px;
+    height: 40px;
+    font-size: 20px;
+    padding: 5px 5px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+fieldset {
+    text-align: center;
+    margin-bottom: 20px;
+    border: none;
+}
+fieldset legend{
+    text-align: center; 
+}
+.area{
+    text-align: center;
+}
+.area textarea {
+    width: 600px;
+    height: 100px;
+    font-size: 18px;
+}
+.area button {
+    background-color: brown;
+    color: antiquewhite;
+    width: 600px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+}
